@@ -1,4 +1,5 @@
 # UMAP + Jupyter Notebook + ScatterGL 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KGhHdfbCzmlt4HTGPy7P9XOa1EloPkmf#scrollTo=1BfZota4SLpH)
 
 Orignal notebook here https://observablehq.com/@radames/umap-jupyter-notebook-scattergl
 
